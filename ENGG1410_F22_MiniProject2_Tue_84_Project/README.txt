@@ -1,0 +1,1 @@
+The program will take the file type .txt info placed in specific order based on the project requirements. Then the program will store the data of the main user and other users (depending how many users are inputted). Next, it will process the magnitude of the data and sort those values according to who is closer to the main user.
